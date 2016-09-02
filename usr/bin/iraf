@@ -1,0 +1,3 @@
+#!/bin/sh
+xgterm -sbr -fn 9x15 -sl 400 -cr red -title IRAF -e ecl &
+ds9 &

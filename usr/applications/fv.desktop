@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=fv
+Exec=fv
+Icon=/usr/share/pixmaps/fv.xpm
+Encoding=UTF-8
+Version=1.0
+Terminal=false
+Type=Application
+Categories=Astronomy;Education;Science;
+Comment=Fits Viewer

@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=DS9
+Exec=ds9
+Icon=/usr/share/pixmaps/ds9.png
+Encoding=UTF-8
+Version=1.0
+Terminal=false
+Type=Application
+Categories=Astronomy;Education;Science;
+Comment=Astronomical imaging and data visualization application

@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=IRAF
+Exec=iraf-cl
+Icon=/usr/share/pixmaps/iraf.png
+Encoding=UTF-8
+Version=1.0
+Terminal=false
+Type=Application
+Categories=Astronomy;Education;Science;
+Comment=Image Reduction and Analysis Facility
